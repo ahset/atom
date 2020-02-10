@@ -12,4 +12,4 @@ Now you can open and change the settings in the "input" file and run the calcula
 ```
 $ ./run
 ```
-The results will be saved in the "results" folder under the name you picked in the "input" file (where is written "TITLE").
+The results will be saved in the "results" folder under the name you picked in the "input" file (where it is written "TITLE").

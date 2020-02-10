@@ -1,0 +1,18 @@
+TITLE
+
+1                   !Atomic number
+1                   !Number of electrons
+6                   !Number of gaussian functions
+10E-6               !Convergence criteria
+1000                !Maximum number of cycles
+0.98                !Constant for slater potential=1.86,dirac=0.98
+0.74                !Constant for slater energy=0.93,dirac=0.74
+0.25                !Mixing coefficient for hybrid functional
+
+      35.52322122    !Gaussians expoents
+      6.513143725
+      1.822142904
+      0.625955266
+      0.243076747
+      0.100112428
+

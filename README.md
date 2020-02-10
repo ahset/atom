@@ -8,7 +8,7 @@ Open the terminal in the folder you downloaded the Atom package and type
 ```
 $ gfortran *.f90 -o run
 ```
-Now you can open and change the settings in the "input" file and run the calculation by typying
+Now you can open and change the settings in the "input" file and run the calculation by typing on the command line
 ```
 $ ./run
 ```

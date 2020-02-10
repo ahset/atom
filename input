@@ -7,7 +7,7 @@ TITLE
 1000                !Maximum number of cycles
 0.98                !Constant for slater potential=1.86,dirac=0.98
 0.74                !Constant for slater energy=0.93,dirac=0.74
-0.25                !Mixing coefficient for hybrid functional
+0.25                !Mixing coefficient for hybrid functional using the Hartree-Fock method
 
       35.52322122    !Gaussians expoents
       6.513143725

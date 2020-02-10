@@ -1,0 +1,81 @@
+ _______________________________________________________________
+ |                                                             |
+ | Program ATOM for calculation of the energy of a single atom |
+ |     Developed as a part of  Dr. Hélio Duarte's DFT class    |
+ |        ministered at the Chemistry Department of UFMG       |
+ |                                                             |
+ | By Taís Christofani                                         |
+ |_____________________________________________________________|
+
+
+ ******************
+ INPUT INFORMATION
+ ******************
+
+ Atomic number:
+           6
+
+ Number of electron:
+           6
+
+ Number of basis functions:
+           4
+
+ Convergence criteria:
+   1.0000000000000001E-005
+
+ Maximum number of iterations:
+        1000
+
+ Cx
+  0.93000000000000005     
+
+ Mixing coefficient for hybrid functional
+   0.0000000000000000     
+
+ Gaussian functions coefficients:
+   27.385033029999999     
+   4.8745220519999997     
+   1.1367481890000000     
+  0.28830936000000001     
+
+
+ ******************
+ OUTPUT INFORMATION
+ ******************
+
+ * For detailed output information check .log file
+
+ Number of SCF cycles for convergence:
+
+           5
+
+ Charge:
+           0
+
+ Ionization potential:
+  -1.5262480534661997     
+
+ Electron affinity:
+  -23.438780722444335     
+
+ Chemical potential
+   12.482514387955268     
+
+ Density:
+ 0.41934797     0.85293796    -0.63287519     0.20085271    
+ 0.85293796      2.1143807     -2.8353207      1.2425194    
+-0.63287519     -2.8353207      7.4279643     -4.3710879    
+ 0.20085271      1.2425194     -4.3710879      4.7299588    
+
+ Orbital energies:
+              1                -10.298050    
+              2               -0.63794355    
+              3                 1.5262481    
+              4                 23.438781    
+
+ Total energy:
+  -32.824688545904010     
+
+ ---------------------------------------------
+ CPU time:   2.6569999999999996E-002 seconds

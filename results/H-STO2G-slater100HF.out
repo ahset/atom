@@ -1,0 +1,75 @@
+ _______________________________________________________________
+ |                                                             |
+ | Program ATOM for calculation of the energy of a single atom |
+ |     Developed as a part of  Dr. Hélio Duarte's DFT class    |
+ |        ministered at the Chemistry Department of UFMG       |
+ |                                                             |
+ | By Taís Christofani                                         |
+ |_____________________________________________________________|
+
+
+ ******************
+ INPUT INFORMATION
+ ******************
+
+ Atomic number:
+           1
+
+ Number of electron:
+           1
+
+ Number of basis functions:
+           2
+
+ Convergence criteria:
+   1.0000000000000001E-005
+
+ Maximum number of iterations:
+        1000
+
+ Cx
+ -0.93000000000000005     
+
+ Mixing coefficient for hybrid functional
+   1.0000000000000000     
+
+ Gaussian functions coefficients:
+   1.3097563770000000     
+  0.23313597400000000     
+
+
+ ******************
+ OUTPUT INFORMATION
+ ******************
+
+ * For detailed output information check .log file
+
+ Number of SCF cycles for convergence:
+
+           2
+
+ Charge:
+           0
+
+ Ionization potential:
+  0.48315137658534929     
+
+ Electron affinity:
+  -1.5219994377987298     
+
+ Chemical potential
+  0.51942403060669029     
+
+ Density:
+ 0.67586325E-01 0.21338325    
+ 0.21338325     0.67369265    
+
+ Orbital energies:
+              1               -0.48315138    
+              2                 1.5219994    
+
+ Total energy:
+ -0.48315137658534901     
+
+ ---------------------------------------------
+ CPU time:   1.6630000000000000E-003 seconds

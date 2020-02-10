@@ -1,0 +1,87 @@
+ _______________________________________________________________
+ |                                                             |
+ | Program ATOM for calculation of the energy of a single atom |
+ |     Developed as a part of  Dr. Hélio Duarte's DFT class    |
+ |        ministered at the Chemistry Department of UFMG       |
+ |                                                             |
+ | By Taís Christofani                                         |
+ |_____________________________________________________________|
+
+
+ ******************
+ INPUT INFORMATION
+ ******************
+
+ Atomic number:
+           6
+
+ Number of electron:
+           6
+
+ Number of basis functions:
+           6
+
+ Convergence criteria:
+   1.0000000000000001E-005
+
+ Maximum number of iterations:
+        1000
+
+ Cx
+  0.73999999999999999     
+
+ Mixing coefficient for hybrid functional
+   0.0000000000000000     
+
+ Gaussian functions coefficients:
+   71.616837000000004     
+   13.045095999999999     
+   3.5305122000000000     
+   2.9412493999999998     
+  0.68348310000000001     
+  0.22228990000000001     
+
+
+ ******************
+ OUTPUT INFORMATION
+ ******************
+
+ * For detailed output information check .log file
+
+ Number of SCF cycles for convergence:
+
+           5
+
+ Charge:
+           0
+
+ Ionization potential:
+ -0.79556232420077411     
+
+ Electron affinity:
+  -5.9280264820719175     
+
+ Chemical potential
+   3.3617944031363458     
+
+ Density:
+ 0.52105546E-01 0.18028807     0.77207255E-01 0.12354522    -0.18859360     0.70585367E-01
+ 0.18028807     0.63830916     0.92727620E-01 0.67478793     -1.0228300     0.48645917    
+ 0.77207255E-01 0.92727620E-01  2.5620737     -3.1561047      4.3695659     -3.7762412    
+ 0.12354522     0.67478793     -3.1561047      4.8906755     -6.9657817      5.3066106    
+-0.18859360     -1.0228300      4.3695659     -6.9657817      10.246452     -6.9813706    
+ 0.70585367E-01 0.48645917     -3.7762412      5.3066106     -6.9813706      6.8161536    
+
+ Orbital energies:
+              1                -9.6783579    
+              2               -0.46775051    
+              3                0.79556232    
+              4                 5.9280265    
+              5                 21.825377    
+              6                 104.45893    
+
+ Total energy:
+  -34.729664946574317     
+
+ ---------------------------------------------
+ CPU time:   6.6166999999999990E-002 seconds

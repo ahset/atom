@@ -1,0 +1,367 @@
+
+ Overlap matrix S:
+  1.0000000     0.60623557    
+ 0.60623557      1.0000000    
+
+ Nuclear matrix N:
+ -1.8262713    -0.84969736    
+-0.84969736    -0.77050362    
+
+ Kinect energy matrix:
+  1.9646345     0.35993729    
+ 0.35993729     0.34970395    
+
+ Transformation matrix X=S^(-1/2):
+  1.1913212    -0.40228778    
+-0.40228778      1.1913212    
+
+ XtSX:
+  1.0000000     0.11102230E-15
+ 0.11102230E-15  1.0000000    
+
+ Initial Fock matrix F = Hcore:
+ 0.13836316    -0.48976007    
+-0.48976007    -0.42079967    
+
+ Transformed Fock matrix F':
+ 0.59770997    -0.63899181    
+-0.63899181    -0.10538735    
+
+ Orbitals energies:
+              1-0.48315138    
+              2 0.97547400    
+
+ Transformed coefficients C':
+ 0.50890699     0.86082151    
+ 0.86082151    -0.50890699    
+
+ New coefficients C=XC':
+ 0.25997370      1.2302420    
+ 0.82078782    -0.95256965    
+ ******************
+ Entering SCF cycle
+ ******************
+
+ :::::::::::::::: Step number           1 ::::::::::::::::
+
+ Density matrix guess:
+ 0.67586325E-01 0.21338325    
+ 0.21338325     0.67369265    
+
+ Coulomb  matrix:
+ 0.85320750     0.47676844    
+ 0.47676844     0.58971632    
+
+ Exact exchange  matrix:
+ 0.62033516     0.55052768    
+ 0.55052768     0.56635405    
+ Calculated number of electrons:
+  0.99938235468724246     
+
+ Exchange-correlation potential matrix:
+-0.82074053    -0.44054890    
+-0.44054890    -0.47259925    
+
+ Fock matrix F:
+ 0.22093148    -0.48103522    
+-0.48103522    -0.32712131    
+
+ Transformed Fock matrix F':
+ 0.72169237    -0.70966404    
+-0.70966404     0.32564958E-01
+
+ Orbitals energies:
+              1-0.41176118    
+              2  1.1660185    
+
+ Transformed coefficients C':
+ 0.53067393     0.84757606    
+ 0.84757606    -0.53067393    
+
+ New coefficients C=XC':
+ 0.29123359      1.2232189    
+ 0.79625167    -0.97317257    
+
+ Kinetic energy:
+  0.52198457327265158     
+
+ Nuclear-elctron potential energy:
+  -1.0051359498580006     
+
+ ===> One-electron energy:
+ -0.48315137658534901     
+
+ Coulomb energy:
+  0.32921075077363160     
+
+ Exchange-correlation energy
+ -0.28093446450788417     
+
+ HF exact exchange energy:
+  0.32921075077363160     
+
+ ===> Two-electron energy:
+   4.8276286265747426E-002
+
+ ===> Total energy:
+ -0.44694416188603847     
+
+ :::::::::::::::: Step number           2 ::::::::::::::::
+
+ Density matrix guess:
+ 0.84817003E-01 0.23189523    
+ 0.23189523     0.63401672    
+
+ Coulomb  matrix:
+ 0.87224900     0.48562811    
+ 0.48562811     0.59548706    
+
+ Exact exchange  matrix:
+ 0.65309126     0.56578631    
+ 0.56578631     0.56616875    
+ Calculated number of electrons:
+  0.99941872898625084     
+
+ Exchange-correlation potential matrix:
+-0.83791448    -0.44709270    
+-0.44709270    -0.47225070    
+
+ Fock matrix F:
+ 0.21890349    -0.48089806    
+-0.48089806    -0.32104283    
+
+ Transformed Fock matrix F':
+ 0.71966641    -0.71138839    
+-0.71138839     0.40732150E-01
+
+ Orbitals energies:
+              1-0.40803379    
+              2  1.1684323    
+
+ Transformed coefficients C':
+ 0.53354078     0.84577434    
+ 0.84577434    -0.53354078    
+
+ New coefficients C=XC':
+ 0.29537375      1.2222258    
+ 0.79295194    -0.97586311    
+
+ Kinetic energy:
+  0.55528803843538588     
+
+ Nuclear-elctron potential energy:
+  -1.0374925689956309     
+
+ ===> One-electron energy:
+ -0.48220453056024504     
+
+ Coulomb energy:
+  0.33837999367076654     
+
+ Exchange-correlation energy
+ -0.28892075611596191     
+
+ HF exact exchange energy:
+  0.33837999367076649     
+
+ ===> Two-electron energy:
+   4.9459237554804636E-002
+
+ ===> Total energy:
+ -0.44511010239414156     
+
+ :::::::::::::::: Step number           3 ::::::::::::::::
+
+ Density matrix guess:
+ 0.87245649E-01 0.23421718    
+ 0.23421718     0.62877277    
+
+ Coulomb  matrix:
+ 0.87479286     0.48681017    
+ 0.48681017     0.59625503    
+
+ Exact exchange  matrix:
+ 0.65744777     0.56777098    
+ 0.56777098     0.56609721    
+ Calculated number of electrons:
+  0.99942353655771310     
+
+ Exchange-correlation potential matrix:
+-0.84015374    -0.44794166    
+-0.44794166    -0.47218450    
+
+ Fock matrix F:
+ 0.21867877    -0.48084889    
+-0.48084889    -0.32020733    
+
+ Transformed Fock matrix F':
+ 0.71943555    -0.71160336    
+-0.71160336     0.41834427E-01
+
+ Orbitals energies:
+              1-0.40750533    
+              2  1.1687753    
+
+ Transformed coefficients C':
+ 0.53391319     0.84553930    
+ 0.84553930    -0.53391319    
+
+ New coefficients C=XC':
+ 0.29591196      1.2220956    
+ 0.79252211    -0.97621221    
+
+ Kinetic energy:
+  0.55989712568267047     
+
+ Nuclear-elctron potential energy:
+  -1.0418333692294757     
+
+ ===> One-electron energy:
+ -0.48193624354680525     
+
+ Coulomb energy:
+  0.33963470632946130     
+
+ Exchange-correlation energy
+ -0.29001386502749466     
+
+ HF exact exchange energy:
+  0.33963470632946124     
+
+ ===> Two-electron energy:
+   4.9620841301966645E-002
+
+ ===> Total energy:
+ -0.44472061257033024     
+
+ :::::::::::::::: Step number           4 ::::::::::::::::
+
+ Density matrix guess:
+ 0.87563889E-01 0.23451677    
+ 0.23451677     0.62809129    
+
+ Coulomb  matrix:
+ 0.87512392     0.48696398    
+ 0.48696398     0.59635492    
+
+ Exact exchange  matrix:
+ 0.65801439     0.56802835    
+ 0.56802835     0.56608710    
+ Calculated number of electrons:
+  0.99942416132910139     
+
+ Exchange-correlation potential matrix:
+-0.84044424    -0.44805172    
+-0.44805172    -0.47217555    
+
+ Fock matrix F:
+ 0.21865030    -0.48084197    
+-0.48084197    -0.32009819    
+
+ Transformed Fock matrix F':
+ 0.71940617    -0.71163107    
+-0.71163107     0.41978074E-01
+
+ Orbitals energies:
+              1-0.40743603    
+              2  1.1688203    
+
+ Transformed coefficients C':
+ 0.53396148     0.84550880    
+ 0.84550880    -0.53396148    
+
+ New coefficients C=XC':
+ 0.29598176      1.2220787    
+ 0.79246635    -0.97625748    
+
+ Kinetic energy:
+  0.56049969839582858     
+
+ Nuclear-elctron potential energy:
+  -1.0423985948246282     
+
+ ===> One-electron energy:
+ -0.48189889642879952     
+
+ Coulomb energy:
+  0.33979851285932727     
+
+ Exchange-correlation energy
+ -0.29015657379385612     
+
+ HF exact exchange energy:
+  0.33979851285932727     
+
+ ===> Two-electron energy:
+   4.9641939065471152E-002
+
+ ===> Total energy:
+ -0.44466744212969617     
+
+ :::::::::::::::: Step number           5 ::::::::::::::::
+
+ Density matrix guess:
+ 0.87605202E-01 0.23455559    
+ 0.23455559     0.62800292    
+
+ Coulomb  matrix:
+ 0.87516686     0.48698393    
+ 0.48698393     0.59636788    
+
+ Exact exchange  matrix:
+ 0.65808788     0.56806171    
+ 0.56806171     0.56608577    
+ Calculated number of electrons:
+  0.99942424234949512     
+
+ Exchange-correlation potential matrix:
+-0.84048191    -0.44806599    
+-0.44806599    -0.47217438    
+
+ Fock matrix F:
+ 0.21864662    -0.48084106    
+-0.48084106    -0.32008403    
+
+ Transformed Fock matrix F':
+ 0.71940237    -0.71163466    
+-0.71163466     0.41996709E-01
+
+ Orbitals energies:
+              1-0.40742704    
+              2  1.1688261    
+
+ Transformed coefficients C':
+ 0.53396774     0.84550485    
+ 0.84550485    -0.53396774    
+
+ New coefficients C=XC':
+ 0.29599081      1.2220765    
+ 0.79245912    -0.97626334    
+
+ Kinetic energy:
+  0.56057790074019354     
+
+ Nuclear-elctron potential energy:
+  -1.0424719121119759     
+
+ ===> One-electron energy:
+ -0.48189401137178234     
+
+ Coulomb energy:
+  0.33981976796295171     
+
+ Exchange-correlation energy
+ -0.29017509129917490     
+
+ HF exact exchange energy:
+  0.33981976796295171     
+
+ ===> Two-electron energy:
+   4.9644676663776810E-002
+
+ ===> Total energy:
+ -0.44466050387394973     
+
+ ******************
+ End of  SCF cycle
+ ******************

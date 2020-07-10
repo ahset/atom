@@ -2,7 +2,7 @@
 Hybrid DFT-HF (Density Functional Theory and Hartree-Fock) calculation of 1 atom developed in Fortran for Dr. Hélio Duarte's 2016 Density Functional Theory class at the Chemistry Department in UFMG.
 
 # Instructions
-To run the program, it is required to have a Fortran compiler installed in your computer. For this tutorial, it was used the GFortran compiler.
+To run the program, it is required to have a Fortran compiler installed in your computer. For this tutorial, GFortran was used.
 
 Open the terminal in the folder you downloaded the Atom package and type
 ```
